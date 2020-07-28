@@ -1,4 +1,4 @@
-package package1;
+package pc;
 
 public class Project_N1 {
 
